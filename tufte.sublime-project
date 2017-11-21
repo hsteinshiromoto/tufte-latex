@@ -4,5 +4,12 @@
 		{
 			"path": "."
 		}
+	],
+	"build_systems":
+	[
+		{
+    "cmd": ["xelatex","$file"],
+    "selector": "text.tex.latex"
+		}
 	]
 }
