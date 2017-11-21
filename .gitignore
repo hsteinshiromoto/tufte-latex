@@ -11,9 +11,9 @@
 *.dvi
 *-converted-to.*
 # these rules might exclude image files for figures etc.
-# *.ps
-# *.eps
-# *.pdf
+*.ps
+*.eps
+*.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -74,7 +74,6 @@ acs-*.bib
 *-gnuplottex-*
 
 # hyperref
-*.brf
 
 # knitr
 *-concordance.tex
@@ -94,6 +93,13 @@ acs-*.bib
 *.maf
 *.mtc
 *.mtc0
+*.mtc1
+*.mtc2
+*.mtc3
+*.mtc4
+*.mtc5
+*.mtc6
+*.mtc7
 
 # minted
 _minted*
@@ -104,6 +110,7 @@ _minted*
 
 # nomencl
 *.nlo
+*.nls
 
 # sagetex
 *.sagetex.sage
@@ -124,13 +131,18 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
+*.ttf
 
-# Vim
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-*~
-
-
+# Other
+.gitignore
+.maf
+.svg
+*.zip
+*.cls
+*.mf
+*.mtc8
+*.synctex(busy)
+*.mtc9
+*.PNG
+*.mtc11
+*.mtc10
