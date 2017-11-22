@@ -134,7 +134,6 @@ sympy-plots-for-*.tex/
 *.ttf
 
 # Other
-.gitignore
 .maf
 .svg
 *.zip
@@ -146,3 +145,4 @@ sympy-plots-for-*.tex/
 *.PNG
 *.mtc11
 *.mtc10
+*.rej
