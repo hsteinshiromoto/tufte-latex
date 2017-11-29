@@ -146,3 +146,4 @@ sympy-plots-for-*.tex/
 *.mtc11
 *.mtc10
 *.rej
+*.sublime-workspace
