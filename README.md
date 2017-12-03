@@ -71,6 +71,22 @@ For kudos, feature requests, patches, or support requests that you
 feel are _particular_ to this Tufte-LaTeX package, i.e., not a general
 LaTeX issue, please use this project's issue tracker available at <https://github.com/Tufte-LaTeX/tufte-latex/issues>.
 
+## Dependencies
+
+### Typefaces
+
+* Adobe Garamond Pro
+* Adobe Garamond Pro Bold
+* Adobe Garamond Pro SemiBold
+* Adobe Garamond Pro Oblique
+* Adobe Garamond Pro BoldOblique
+* Adobe Garamond Pro SemiBoldOblique
+
+### Linux packages
+
+* `texlive-fonts-extra`
+* `texlive-fonts-extra`
+
 ## Contributing
 
 Patches and pull requests are most welcome via the issue tracker!  Submit a series of high quality patches, and you'll find yourself a developer on this project.
